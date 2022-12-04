@@ -4,7 +4,7 @@ El objetivo de este proyecto es el de modelar un sistema de recomendación sobre
 Nos interesa modelar y entender cómo están compuestas las playlists, si un usuario y otro son similares, poder recomendar canciones o playlists enteras.
 
 Datos disponibles
-Trabajamos con una ínfima porción de datos obtenidos de una competencia pública realizada por la plataforma Spotify en 2018. Cuenta con cerca de 2 millones de entradas. [Link al archivo de tsv de Spotify].(https://drive.google.com/file/d/1k_icZA0H2gbEivDUfJ3YC8IlWaEJ2-GI/view)  
+Trabajamos con una ínfima porción de datos obtenidos de una competencia pública realizada por la plataforma Spotify en 2018. Cuenta con cerca de 2 millones de entradas. [Link al archivo de tsv de Spotify](https://drive.google.com/file/d/1k_icZA0H2gbEivDUfJ3YC8IlWaEJ2-GI/view).
 ```
 ID	USER_ID	TRACK_NAME	ARTIST	PLAYLIST_ID	PLAYLIST_NAME	GENRES
 1	sitevagalume	Eraser	Ed Sheeran	6736120	Ed Sheeran - Divide	Pop,Rock,Pop/Rock
